@@ -28,4 +28,9 @@ The project uses the `fake_or_real_news.csv` dataset, which contains the followi
 - `label`: The target label, either `FAKE` or `REAL`.
 
 ## Results
-Achieved a classification accuracy of [insert accuracy]%.
+Achieved a classification accuracy of 96.61%.
+
+## Future Improvements
+- Integrate more advanced NLP models like BERT or GPT for better accuracy.
+- Deploy the model as a web application for real-time usage.
+- Expand the dataset for better generalization.
