@@ -27,5 +27,5 @@ The project uses the `fake_or_real_news.csv` dataset, which contains the followi
 - `text`: The main content of the article.
 - `label`: The target label, either `FAKE` or `REAL`.
 
-##Results
+## Results
 Achieved a classification accuracy of [insert accuracy]%.
